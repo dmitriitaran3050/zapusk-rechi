@@ -13,7 +13,7 @@
   //  - TG/MAX: придёт первым сообщением "/start zapusk" (видно менеджеру в чате)
   //  - VK: ref/ref_source сохранятся в UTM-полях сделки (CRM МойКласс)
   // METRIKA_ID: пока плейсхолдер. Создать отдельный счётчик на домен
-  //  zapusk.лисицыум.рф, вписать сюда id и раскомментировать блок в index.html.
+  //  zapusk-rechi.лисицыум.рф, вписать сюда id и раскомментировать блок в index.html.
   //  Пока значение "METRIKA_ID" — цели не отправляются (защита ниже).
   var CONFIG = {
     TELEGRAM_URL: "https://t.me/LisitsyUm_bot?start=zapusk",
