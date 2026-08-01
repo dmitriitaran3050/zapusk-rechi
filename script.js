@@ -19,7 +19,7 @@
     TELEGRAM_URL: "https://t.me/LisitsyUm_bot?start=zapusk-rechi",
     VK_URL: "https://vk.me/lisicium?ref=zapusk-rechi&ref_source=vizitka",
     MAX_URL: "https://max.ru/id780518760353_bot?start=zapusk-rechi",
-    METRIKA_ID: "METRIKA_ID",
+    METRIKA_ID: "111219272",
   };
 
   var urlByCta = {
